@@ -11,7 +11,7 @@ The Depression Detector is an AI-powered project that predicts the likelihood of
 
 ⚙ Installation & Setup
 1. Clone the repository ⬇:
-git clone https://github.com/pooja-310/Depression-detector-using-python.git
+git clone https:https://github.com/pooja-310/Depression-detector--using-python.git
 
 2. Install dependencies 📦:
 pip install -r requirements.txt
